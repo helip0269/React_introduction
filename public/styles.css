@@ -1,0 +1,18 @@
+.heading {
+  color: purple;
+}
+
+ul {
+  color: blue;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+}
+
+.myname {
+  color: green;
+  font-size: 15px;
+  font-style: oblique;
+}
